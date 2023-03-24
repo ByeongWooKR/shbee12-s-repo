@@ -1,5 +1,5 @@
-print("Hii")
-print("Hello World!")
+print('Hii')
+print('Hello World!')
 
 #1
 
